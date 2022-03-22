@@ -13,3 +13,4 @@ console.log(calculadora.soma(30,12));
 console.log(calculadora.sub(30,12));
 console.log(calculadora.mult(30,12));
 console.log(calculadora.div(30,12));
+console.log("I'm only test bruh");
